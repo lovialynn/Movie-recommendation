@@ -1,0 +1,52 @@
+.manage {
+  padding: 2.8vw;
+}
+
+.manageTable {
+  border-radius: 8px;
+  box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.08);
+  width: 70vw;
+  height: 480px;
+  padding: 20px 20px 0 20px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.forAge {
+  position: relative;
+  width: 23vw;
+  height: 250px;
+  box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.08);
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  border-radius: 8px;
+}
+
+.manageTitle {
+  margin-top: 5px;
+  font-weight: 700;
+}
+
+.forSex {
+  position: relative;
+  width: 23vw;
+  margin-top: 20px;
+  height: 210px;
+  box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.08);
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  border-radius: 8px;
+}
+
+.people{
+    width: 94.4vw;
+    margin-top: 20px;
+    padding: 2vw;
+    box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.08);
+
+}

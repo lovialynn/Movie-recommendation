@@ -1,0 +1,25 @@
+.header_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_logo,
+.header_btn {
+    display: flex;
+    align-items: center;
+}
+.header_btn button{
+    margin-left: 10px;
+}
+
+.header_hreat{
+    margin-right: 20px;
+}
+
+
+.header_modal Input {
+    /* height: 30px; */
+    width: 80%;
+    margin: 10px 10%;
+}
